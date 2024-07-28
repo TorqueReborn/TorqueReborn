@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TorqueReborn
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Android Framework Development
+- 💞️ I’m looking to collaborate on Android based projects
+- 📫 How to reach me Telegram - @torquereborn
+- 😄 Pronouns: he/hm
+- ⚡ Fun fact: I'm a good guy
